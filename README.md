@@ -69,7 +69,7 @@ where `k > 0` is the degrees of freedom.
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-skewness@v0.2.1-deno/mod.js';
 ```
 
 #### skewness( k )
@@ -114,7 +114,7 @@ var v = skewness( -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-skewness@v0.2.1-deno/mod.js';
 
 var k;
 var v;
