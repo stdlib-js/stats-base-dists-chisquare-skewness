@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-19)
+
+<section class="features">
+
+### Features
+
+-   [`118284b`](https://github.com/stdlib-js/stdlib/commit/118284b97293f409c1769047675bed85ddf4dd20) - add C implementation for `stats/base/dists/chisquare/skewness` [(#4005)](https://github.com/stdlib-js/stdlib/pull/4005)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3510](https://github.com/stdlib-js/stdlib/issues/3510)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`118284b`](https://github.com/stdlib-js/stdlib/commit/118284b97293f409c1769047675bed85ddf4dd20) - **feat:** add C implementation for `stats/base/dists/chisquare/skewness` [(#4005)](https://github.com/stdlib-js/stdlib/pull/4005) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
